@@ -13,7 +13,7 @@ export default function Hero() {
         className="absolute inset-0 z-0"
       >
         <img 
-          src="/images/hero-bg.jpg" 
+          src="/images/herobg-1.jpg" 
           alt="Kaprixu Hero" 
           className="w-full h-full object-cover opacity-60"
           referrerPolicy="no-referrer"
