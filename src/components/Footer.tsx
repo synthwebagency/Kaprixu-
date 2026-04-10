@@ -47,6 +47,7 @@ export default function Footer() {
               <li><a href="#sobre" className="text-gray-500 hover:text-primary transition-colors">Sobre Nós</a></li>
               <li><a href="#menu" className="text-gray-500 hover:text-primary transition-colors">O Nosso Menu</a></li>
               <li><a href="#galeria" className="text-gray-500 hover:text-primary transition-colors">Galeria</a></li>
+              <li><a href="/sitemap.xml" target="_blank" className="text-gray-500 hover:text-primary transition-colors">Sitemap</a></li>
             </ul>
           </div>
 
